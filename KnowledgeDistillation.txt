@@ -1,0 +1,13 @@
+https://medium.com/analytics-vidhya/knowledge-distillation-in-a-deep-neural-network-c9dd59aff89b
+
+
+https://medium.com/analytics-vidhya/knowledge-distillation-for-convolutional-networks-e73682c611e8
+
+
+https://keras.io/examples/vision/knowledge_distillation/
+
+
+https://github.com/tsitsimis/neural-network-distillation/blob/master/2.%20Neural%20Network%20Distillation%20(MNIST).ipynb
+
+
+https://medium.com/analytics-vidhya/knowledge-distillation-in-a-deep-neural-network-c9dd59aff89b
